@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Vasanth 👋
 
-<!--
-**vasanth2809/vasanth2809** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile portfolio.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- Passionate developer interested in building practical software solutions.
+- I enjoy learning new technologies and improving my craft.
+- Open to collaboration on impactful projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- **Languages:** Python, JavaScript, TypeScript, Java
+- **Web:** HTML, CSS, React, Node.js
+- **Tools:** Git, GitHub, VS Code
+
+## 🚀 Featured Projects
+- Add your top projects here with a short one-line description.
+- Example: **Project Name** — What it does and why it matters.
+
+## 📫 Contact
+- GitHub: [@vasanth2809](https://github.com/vasanth2809)
+- LinkedIn: Add your LinkedIn profile link
+- Email: Add your email address
+
+---
+Thanks for visiting my profile!
