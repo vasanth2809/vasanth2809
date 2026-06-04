@@ -116,6 +116,8 @@ Stayed because now my self worth is directly proportional to green squares.
 
         Examples:
 
+            - Very cool stuff at HP but I won't reveal, sorry mate :)
+
             - Unified Metric Store (during my time at LinkedIn)
               built scalable big data ingestion + transformation pipelines using spark and scala.
               because apparently one dataset was not enough pain.
